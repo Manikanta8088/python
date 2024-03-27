@@ -1,0 +1,12 @@
+a=7
+b=5.6
+c=6+7j
+d=int(c.real)
+e=float(a)
+f=complex(b)
+print(d)
+print(e)
+print(f)
+print(type(d))
+print(type(e))
+print(type(f))
